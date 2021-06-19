@@ -1,0 +1,14 @@
+2021-06-04 03:59:45,532 WARN com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3h1m56s429ms678탎400ns).
+2021-06-04 07:22:25,704 WARN com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3h1m57s634ms984탎900ns).
+2021-06-04 08:23:33,223 WARN com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=39m7s118ms874탎400ns).
+2021-06-04 10:11:03,374 WARN com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m28s643ms569탎700ns).
+2021-06-04 10:39:07,305 WARN com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m31s792ms272탎800ns).
+2021-06-04 13:34:59,214 WARN com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=50m19s928ms713탎900ns).
+2021-06-04 16:45:40,236 WARN com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h43m7s69ms452탎300ns).
+2021-06-04 21:03:05,877 WARN com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h3m51s484ms564탎1ns).
+2021-06-04 21:07:35,299 INFO com.cg.creditcardpayment.controller.AccountController [http-nio-9090-exec-10] Called GET mapping getAllAccounts() method
+2021-06-04 21:07:35,299 INFO com.cg.creditcardpayment.services.AccountServices [http-nio-9090-exec-10] Called getAllAccount() method of AccountServices
+2021-06-04 21:07:39,820 INFO com.cg.creditcardpayment.controller.AccountController [http-nio-9090-exec-1] Called GET mapping getAccount() method
+2021-06-04 21:07:39,820 INFO com.cg.creditcardpayment.services.AccountServices [http-nio-9090-exec-1] Called getAccount() method of AccountServices
+2021-06-04 21:07:39,886 INFO com.cg.creditcardpayment.exceptions.AccountNotFoundException [http-nio-9090-exec-1] Account not found
+2021-06-04 21:07:39,976 WARN org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver [http-nio-9090-exec-1] Resolved [Account not found]

@@ -1,0 +1,495 @@
+2021-05-31 00:28:01,968 WARN com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3h1m57s230ms549탎300ns).
+2021-05-31 00:28:47,319 WARN com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=45s351ms713탎).
+2021-05-31 03:50:16,223 WARN com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3h1m57s134ms564탎400ns).
+2021-05-31 07:12:13,903 WARN com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3h1m57s357ms229탎).
+2021-05-31 08:35:49,604 WARN com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h3m35s361ms330탎300ns).
+2021-05-31 09:24:58,757 INFO com.cg.creditcardpayment.controller.AccountController [http-nio-9090-exec-4] Called GET mapping getAllAccounts() method
+2021-05-31 09:24:58,761 INFO com.cg.creditcardpayment.services.AccountServices [http-nio-9090-exec-4] Called getAllAccount() method of AccountServices
+2021-05-31 09:32:27,512 INFO com.cg.creditcardpayment.controller.AccountController [http-nio-9090-exec-6] Called GET mapping getAllAccounts() method
+2021-05-31 09:32:27,512 INFO com.cg.creditcardpayment.services.AccountServices [http-nio-9090-exec-6] Called getAllAccount() method of AccountServices
+2021-05-31 09:32:32,722 INFO com.cg.creditcardpayment.controller.AccountController [http-nio-9090-exec-7] Called GET mapping getAllAccounts() method
+2021-05-31 09:32:32,723 INFO com.cg.creditcardpayment.services.AccountServices [http-nio-9090-exec-7] Called getAllAccount() method of AccountServices
+2021-05-31 09:32:42,166 INFO com.cg.creditcardpayment.controller.AccountController [http-nio-9090-exec-8] Called GET mapping getAllAccounts() method
+2021-05-31 09:32:42,166 INFO com.cg.creditcardpayment.services.AccountServices [http-nio-9090-exec-8] Called getAllAccount() method of AccountServices
+2021-05-31 09:32:48,528 INFO com.cg.creditcardpayment.controller.AccountController [http-nio-9090-exec-9] Called GET mapping getAllAccounts() method
+2021-05-31 09:32:48,528 INFO com.cg.creditcardpayment.services.AccountServices [http-nio-9090-exec-9] Called getAllAccount() method of AccountServices
+2021-05-31 09:32:58,939 INFO com.cg.creditcardpayment.controller.AccountController [http-nio-9090-exec-10] Called GET mapping getAllAccounts() method
+2021-05-31 09:32:58,939 INFO com.cg.creditcardpayment.services.AccountServices [http-nio-9090-exec-10] Called getAllAccount() method of AccountServices
+2021-05-31 09:33:21,438 INFO com.cg.creditcardpayment.controller.AccountController [http-nio-9090-exec-1] Called GET mapping getAllAccounts() method
+2021-05-31 09:33:21,439 INFO com.cg.creditcardpayment.services.AccountServices [http-nio-9090-exec-1] Called getAllAccount() method of AccountServices
+2021-05-31 09:33:25,540 INFO com.cg.creditcardpayment.controller.AccountController [http-nio-9090-exec-2] Called GET mapping getAllAccounts() method
+2021-05-31 09:33:25,540 INFO com.cg.creditcardpayment.services.AccountServices [http-nio-9090-exec-2] Called getAllAccount() method of AccountServices
+2021-05-31 09:41:00,914 INFO com.cg.creditcardpayment.controller.AccountController [http-nio-9090-exec-4] Called GET mapping getAllAccounts() method
+2021-05-31 09:41:00,914 INFO com.cg.creditcardpayment.services.AccountServices [http-nio-9090-exec-4] Called getAllAccount() method of AccountServices
+2021-05-31 10:27:28,936 INFO com.cg.creditcardpayment.controller.AccountController [http-nio-9090-exec-6] Called GET mapping getAllAccounts() method
+2021-05-31 10:27:28,936 INFO com.cg.creditcardpayment.services.AccountServices [http-nio-9090-exec-6] Called getAllAccount() method of AccountServices
+2021-05-31 10:27:51,282 INFO com.cg.creditcardpayment.controller.AccountController [http-nio-9090-exec-7] Called GET mapping getAllAccounts() method
+2021-05-31 10:27:51,282 INFO com.cg.creditcardpayment.services.AccountServices [http-nio-9090-exec-7] Called getAllAccount() method of AccountServices
+2021-05-31 10:36:47,934 INFO com.cg.creditcardpayment.controller.AccountController [http-nio-9090-exec-9] Called GET mapping getAllAccounts() method
+2021-05-31 10:36:47,934 INFO com.cg.creditcardpayment.services.AccountServices [http-nio-9090-exec-9] Called getAllAccount() method of AccountServices
+2021-05-31 11:50:31,814 INFO com.cg.creditcardpayment.controller.AccountController [http-nio-9090-exec-1] Called GET mapping getAllAccounts() method
+2021-05-31 11:50:31,814 INFO com.cg.creditcardpayment.services.AccountServices [http-nio-9090-exec-1] Called getAllAccount() method of AccountServices
+2021-05-31 11:50:47,539 INFO com.cg.creditcardpayment.controller.AccountController [http-nio-9090-exec-2] Called GET mapping getAllAccounts() method
+2021-05-31 11:50:47,540 INFO com.cg.creditcardpayment.services.AccountServices [http-nio-9090-exec-2] Called getAllAccount() method of AccountServices
+2021-05-31 12:01:34,782 WARN org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver [http-nio-9090-exec-4] Resolved [org.springframework.http.converter.HttpMessageNotReadableException: Required request body is missing: public org.springframework.http.ResponseEntity<java.lang.String> com.cg.creditcardpayment.controller.AccountController.addAccount(com.cg.creditcardpayment.entities.Account)]
+2021-05-31 12:01:51,580 INFO com.cg.creditcardpayment.services.AccountServices [http-nio-9090-exec-6] Called addAccount() method of AccountServices
+2021-05-31 12:02:19,909 WARN org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver [http-nio-9090-exec-7] Resolved [org.springframework.http.converter.HttpMessageNotReadableException: Required request body is missing: public org.springframework.http.ResponseEntity<java.lang.String> com.cg.creditcardpayment.controller.AccountController.addAccount(com.cg.creditcardpayment.entities.Account)]
+2021-05-31 12:04:16,979 WARN org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver [http-nio-9090-exec-10] Resolved [org.springframework.http.converter.HttpMessageNotReadableException: Required request body is missing: public org.springframework.http.ResponseEntity<java.lang.String> com.cg.creditcardpayment.controller.AccountController.addAccount(com.cg.creditcardpayment.entities.Account)]
+2021-05-31 12:08:47,695 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-5] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-31 12:08:47,796 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [Thread-5] Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-05-31 12:08:48,815 INFO com.zaxxer.hikari.HikariDataSource [Thread-5] HikariPool-1 - Shutdown initiated...
+2021-05-31 12:08:48,960 INFO com.zaxxer.hikari.HikariDataSource [Thread-5] HikariPool-1 - Shutdown completed.
+2021-05-31 12:09:19,720 INFO com.cg.creditcardpayment.CreditcardBillPaymentApplication [restartedMain] Starting CreditcardBillPaymentApplication using Java 15.0.2 on DESKTOP-88QC7I7 with PID 19304 (H:\CreditcardBillPayment\bin\main started by UJJAWAL in H:\CreditcardBillPayment)
+2021-05-31 12:09:19,725 INFO com.cg.creditcardpayment.CreditcardBillPaymentApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-05-31 12:09:19,947 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-05-31 12:09:19,947 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-05-31 12:09:25,472 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-05-31 12:09:25,799 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 290 ms. Found 7 JPA repository interfaces.
+2021-05-31 12:09:28,934 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 9090 (http)
+2021-05-31 12:09:29,026 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2021-05-31 12:09:29,027 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.45]
+2021-05-31 12:09:29,511 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-05-31 12:09:29,511 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 9562 ms
+2021-05-31 12:09:30,393 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-05-31 12:09:30,703 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate ORM core version 5.4.30.Final
+2021-05-31 12:09:31,609 INFO org.hibernate.annotations.common.Version [restartedMain] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-05-31 12:09:32,223 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2021-05-31 12:09:33,098 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2021-05-31 12:09:33,236 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2021-05-31 12:09:38,864 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-05-31 12:09:38,975 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-05-31 12:09:39,498 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2021-05-31 12:09:43,699 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-05-31 12:09:45,376 INFO springfox.documentation.spring.web.WebMvcPropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+2021-05-31 12:09:46,151 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-31 12:09:47,754 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 9090 (http) with context path ''
+2021-05-31 12:09:47,756 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Documentation plugins bootstrapped
+2021-05-31 12:09:47,766 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2021-05-31 12:09:48,086 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2021-05-31 12:09:48,189 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-9090-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-05-31 12:09:48,189 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-1] Initializing Servlet 'dispatcherServlet'
+2021-05-31 12:09:48,194 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-1] Completed initialization in 5 ms
+2021-05-31 12:09:48,858 INFO springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [restartedMain] Generating unique operation named: findByIdUsingGET_1
+2021-05-31 12:09:48,906 INFO springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [restartedMain] Generating unique operation named: addUsingPOST_1
+2021-05-31 12:09:48,924 INFO springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [restartedMain] Generating unique operation named: findAllUsingGET_1
+2021-05-31 12:09:49,227 INFO com.cg.creditcardpayment.CreditcardBillPaymentApplication [restartedMain] Started CreditcardBillPaymentApplication in 30.924 seconds (JVM running for 38.315)
+2021-05-31 12:31:31,283 WARN org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver [http-nio-9090-exec-5] Resolved [org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.lang.Long] for value 'getAllAccounts'; nested exception is java.lang.NumberFormatException: For input string: "getAllAccounts"]
+2021-05-31 12:31:38,051 WARN org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver [http-nio-9090-exec-6] Resolved [org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.lang.Long] for value 'getAllAccounts'; nested exception is java.lang.NumberFormatException: For input string: "getAllAccounts"]
+2021-05-31 12:32:11,617 WARN org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver [http-nio-9090-exec-7] Resolved [org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.lang.Long] for value 'getAllAccounts'; nested exception is java.lang.NumberFormatException: For input string: "getAllAccounts"]
+2021-05-31 12:32:38,626 WARN org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver [http-nio-9090-exec-8] Resolved [org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.lang.Long] for value 'getAllAccounts'; nested exception is java.lang.NumberFormatException: For input string: "getAllAccounts"]
+2021-05-31 12:32:54,137 WARN org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver [http-nio-9090-exec-9] Resolved [org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.lang.Long] for value 'getAllAccounts'; nested exception is java.lang.NumberFormatException: For input string: "getAllAccounts"]
+2021-05-31 12:35:52,289 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-5] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-31 12:35:52,324 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [Thread-5] Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-05-31 12:35:52,336 INFO com.zaxxer.hikari.HikariDataSource [Thread-5] HikariPool-1 - Shutdown initiated...
+2021-05-31 12:35:52,420 INFO com.zaxxer.hikari.HikariDataSource [Thread-5] HikariPool-1 - Shutdown completed.
+2021-05-31 12:35:52,756 INFO com.cg.creditcardpayment.CreditcardBillPaymentApplication [restartedMain] Starting CreditcardBillPaymentApplication using Java 15.0.2 on DESKTOP-88QC7I7 with PID 19304 (H:\CreditcardBillPayment\bin\main started by UJJAWAL in H:\CreditcardBillPayment)
+2021-05-31 12:35:52,757 INFO com.cg.creditcardpayment.CreditcardBillPaymentApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-05-31 12:35:54,319 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-05-31 12:35:54,356 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 37 ms. Found 7 JPA repository interfaces.
+2021-05-31 12:35:54,546 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 9090 (http)
+2021-05-31 12:35:54,547 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2021-05-31 12:35:54,547 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.45]
+2021-05-31 12:35:54,591 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-05-31 12:35:54,591 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1826 ms
+2021-05-31 12:35:54,659 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-05-31 12:35:54,665 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-2 - Starting...
+2021-05-31 12:35:55,265 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-2 - Start completed.
+2021-05-31 12:35:55,266 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2021-05-31 12:35:56,399 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-05-31 12:35:56,400 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-05-31 12:35:56,432 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2021-05-31 12:35:56,861 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-05-31 12:35:57,003 INFO springfox.documentation.spring.web.WebMvcPropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+2021-05-31 12:35:57,054 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-31 12:35:57,167 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(30)-127.0.0.1] Application shutdown requested.
+2021-05-31 12:35:57,244 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 9090 (http) with context path ''
+2021-05-31 12:35:57,245 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Documentation plugins bootstrapped
+2021-05-31 12:35:57,245 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2021-05-31 12:35:57,295 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2021-05-31 12:35:57,511 INFO springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [restartedMain] Generating unique operation named: findByIdUsingGET_1
+2021-05-31 12:35:57,536 INFO springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [restartedMain] Generating unique operation named: addUsingPOST_1
+2021-05-31 12:35:57,550 INFO springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [restartedMain] Generating unique operation named: findAllUsingGET_1
+2021-05-31 12:35:57,751 INFO com.cg.creditcardpayment.CreditcardBillPaymentApplication [restartedMain] Started CreditcardBillPaymentApplication in 5.206 seconds (JVM running for 1606.839)
+2021-05-31 12:35:57,755 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2021-05-31 12:35:57,786 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [RMI TCP Connection(30)-127.0.0.1] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-31 12:35:57,796 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [RMI TCP Connection(30)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-05-31 12:35:57,798 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(30)-127.0.0.1] HikariPool-2 - Shutdown initiated...
+2021-05-31 12:35:57,804 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(30)-127.0.0.1] HikariPool-2 - Shutdown completed.
+2021-05-31 12:36:05,212 INFO com.cg.creditcardpayment.CreditcardBillPaymentApplication [restartedMain] Starting CreditcardBillPaymentApplication using Java 15.0.2 on DESKTOP-88QC7I7 with PID 15368 (H:\CreditcardBillPayment\bin\main started by UJJAWAL in H:\CreditcardBillPayment)
+2021-05-31 12:36:05,218 INFO com.cg.creditcardpayment.CreditcardBillPaymentApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-05-31 12:36:05,396 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-05-31 12:36:05,397 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-05-31 12:36:07,094 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-05-31 12:36:07,243 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 132 ms. Found 7 JPA repository interfaces.
+2021-05-31 12:36:09,469 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 9090 (http)
+2021-05-31 12:36:09,597 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2021-05-31 12:36:09,598 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.45]
+2021-05-31 12:36:10,058 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-05-31 12:36:10,058 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 4659 ms
+2021-05-31 12:36:10,488 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-05-31 12:36:10,655 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate ORM core version 5.4.30.Final
+2021-05-31 12:36:11,395 INFO org.hibernate.annotations.common.Version [restartedMain] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-05-31 12:36:11,690 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2021-05-31 12:36:12,066 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2021-05-31 12:36:12,422 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2021-05-31 12:36:16,569 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-05-31 12:36:16,593 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-05-31 12:36:16,701 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2021-05-31 12:36:18,149 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-05-31 12:36:18,985 INFO springfox.documentation.spring.web.WebMvcPropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+2021-05-31 12:36:19,288 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-31 12:36:20,082 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 9090 (http) with context path ''
+2021-05-31 12:36:20,084 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Documentation plugins bootstrapped
+2021-05-31 12:36:20,091 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2021-05-31 12:36:20,212 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2021-05-31 12:36:20,709 INFO springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [restartedMain] Generating unique operation named: findByIdUsingGET_1
+2021-05-31 12:36:20,750 INFO springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [restartedMain] Generating unique operation named: addUsingPOST_1
+2021-05-31 12:36:20,760 INFO springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [restartedMain] Generating unique operation named: findAllUsingGET_1
+2021-05-31 12:36:21,009 INFO com.cg.creditcardpayment.CreditcardBillPaymentApplication [restartedMain] Started CreditcardBillPaymentApplication in 16.537 seconds (JVM running for 17.994)
+2021-05-31 12:37:31,264 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-9090-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-05-31 12:37:31,265 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-1] Initializing Servlet 'dispatcherServlet'
+2021-05-31 12:37:31,269 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-1] Completed initialization in 4 ms
+2021-05-31 12:41:32,213 WARN org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver [http-nio-9090-exec-3] Resolved [org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.lang.Long] for value 'getAllAccounts'; nested exception is java.lang.NumberFormatException: For input string: "getAllAccounts"]
+2021-05-31 12:56:32,055 WARN org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver [http-nio-9090-exec-5] Resolved [org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.lang.Long] for value 'getAllAccounts'; nested exception is java.lang.NumberFormatException: For input string: "getAllAccounts"]
+2021-05-31 12:57:23,715 WARN org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver [http-nio-9090-exec-7] Resolved [org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.lang.Long] for value 'getAllAccounts'; nested exception is java.lang.NumberFormatException: For input string: "getAllAccounts"]
+2021-05-31 13:01:38,956 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-5] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-31 13:01:38,972 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [Thread-5] Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-05-31 13:01:38,978 INFO com.zaxxer.hikari.HikariDataSource [Thread-5] HikariPool-1 - Shutdown initiated...
+2021-05-31 13:01:38,985 INFO com.zaxxer.hikari.HikariDataSource [Thread-5] HikariPool-1 - Shutdown completed.
+2021-05-31 13:01:39,134 INFO com.cg.creditcardpayment.CreditcardBillPaymentApplication [restartedMain] Starting CreditcardBillPaymentApplication using Java 15.0.2 on DESKTOP-88QC7I7 with PID 15368 (H:\CreditcardBillPayment\bin\main started by UJJAWAL in H:\CreditcardBillPayment)
+2021-05-31 13:01:39,135 INFO com.cg.creditcardpayment.CreditcardBillPaymentApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-05-31 13:01:39,564 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-05-31 13:01:39,604 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 39 ms. Found 7 JPA repository interfaces.
+2021-05-31 13:01:39,777 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 9090 (http)
+2021-05-31 13:01:39,779 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2021-05-31 13:01:39,779 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.45]
+2021-05-31 13:01:39,841 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-05-31 13:01:39,841 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 703 ms
+2021-05-31 13:01:39,934 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-05-31 13:01:39,939 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-2 - Starting...
+2021-05-31 13:01:39,986 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-2 - Start completed.
+2021-05-31 13:01:39,986 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2021-05-31 13:01:40,782 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-05-31 13:01:40,782 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-05-31 13:01:40,792 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2021-05-31 13:01:40,994 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-05-31 13:01:41,064 INFO springfox.documentation.spring.web.WebMvcPropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+2021-05-31 13:01:41,095 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-31 13:01:41,212 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 9090 (http) with context path ''
+2021-05-31 13:01:41,212 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Documentation plugins bootstrapped
+2021-05-31 13:01:41,212 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2021-05-31 13:01:41,236 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2021-05-31 13:01:41,354 INFO springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [restartedMain] Generating unique operation named: findByIdUsingGET_1
+2021-05-31 13:01:41,374 INFO springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [restartedMain] Generating unique operation named: addUsingPOST_1
+2021-05-31 13:01:41,378 INFO springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [restartedMain] Generating unique operation named: findAllUsingGET_1
+2021-05-31 13:01:41,509 INFO com.cg.creditcardpayment.CreditcardBillPaymentApplication [restartedMain] Started CreditcardBillPaymentApplication in 2.431 seconds (JVM running for 1538.493)
+2021-05-31 13:01:41,512 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2021-05-31 13:01:45,983 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-9090-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-05-31 13:01:45,984 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-1] Initializing Servlet 'dispatcherServlet'
+2021-05-31 13:01:45,989 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-1] Completed initialization in 4 ms
+2021-05-31 13:01:59,998 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(29)-127.0.0.1] Application shutdown requested.
+2021-05-31 13:02:00,056 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [RMI TCP Connection(29)-127.0.0.1] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-31 13:02:00,068 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [RMI TCP Connection(29)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-05-31 13:02:00,070 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(29)-127.0.0.1] HikariPool-2 - Shutdown initiated...
+2021-05-31 13:02:00,077 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(29)-127.0.0.1] HikariPool-2 - Shutdown completed.
+2021-05-31 13:02:05,925 INFO com.cg.creditcardpayment.CreditcardBillPaymentApplication [restartedMain] Starting CreditcardBillPaymentApplication using Java 15.0.2 on DESKTOP-88QC7I7 with PID 2360 (H:\CreditcardBillPayment\bin\main started by UJJAWAL in H:\CreditcardBillPayment)
+2021-05-31 13:02:05,928 INFO com.cg.creditcardpayment.CreditcardBillPaymentApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-05-31 13:02:06,023 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-05-31 13:02:06,024 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-05-31 13:02:07,350 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-05-31 13:02:07,485 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 122 ms. Found 7 JPA repository interfaces.
+2021-05-31 13:02:08,562 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 9090 (http)
+2021-05-31 13:02:08,576 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2021-05-31 13:02:08,576 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.45]
+2021-05-31 13:02:08,693 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-05-31 13:02:08,694 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 2669 ms
+2021-05-31 13:02:09,040 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-05-31 13:02:09,099 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate ORM core version 5.4.30.Final
+2021-05-31 13:02:09,272 INFO org.hibernate.annotations.common.Version [restartedMain] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-05-31 13:02:09,393 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2021-05-31 13:02:09,589 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2021-05-31 13:02:09,652 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2021-05-31 13:02:11,932 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-05-31 13:02:11,947 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-05-31 13:02:12,033 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2021-05-31 13:02:13,097 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-05-31 13:02:13,744 INFO springfox.documentation.spring.web.WebMvcPropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+2021-05-31 13:02:13,972 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-31 13:02:14,606 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 9090 (http) with context path ''
+2021-05-31 13:02:14,608 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Documentation plugins bootstrapped
+2021-05-31 13:02:14,613 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2021-05-31 13:02:14,730 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2021-05-31 13:02:14,778 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-9090-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-05-31 13:02:14,778 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-1] Initializing Servlet 'dispatcherServlet'
+2021-05-31 13:02:14,781 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-1] Completed initialization in 3 ms
+2021-05-31 13:02:15,291 INFO springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [restartedMain] Generating unique operation named: findByIdUsingGET_1
+2021-05-31 13:02:15,355 INFO springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [restartedMain] Generating unique operation named: addUsingPOST_1
+2021-05-31 13:02:15,367 INFO springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [restartedMain] Generating unique operation named: findAllUsingGET_1
+2021-05-31 13:02:15,714 INFO com.cg.creditcardpayment.CreditcardBillPaymentApplication [restartedMain] Started CreditcardBillPaymentApplication in 10.371 seconds (JVM running for 11.796)
+2021-05-31 13:10:07,747 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-5] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-31 13:10:07,782 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [Thread-5] Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-05-31 13:10:07,799 INFO com.zaxxer.hikari.HikariDataSource [Thread-5] HikariPool-1 - Shutdown initiated...
+2021-05-31 13:10:07,815 INFO com.zaxxer.hikari.HikariDataSource [Thread-5] HikariPool-1 - Shutdown completed.
+2021-05-31 13:10:08,001 INFO com.cg.creditcardpayment.CreditcardBillPaymentApplication [restartedMain] Starting CreditcardBillPaymentApplication using Java 15.0.2 on DESKTOP-88QC7I7 with PID 2360 (H:\CreditcardBillPayment\bin\main started by UJJAWAL in H:\CreditcardBillPayment)
+2021-05-31 13:10:08,001 INFO com.cg.creditcardpayment.CreditcardBillPaymentApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-05-31 13:10:08,530 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-05-31 13:10:08,560 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 28 ms. Found 7 JPA repository interfaces.
+2021-05-31 13:10:08,977 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 9090 (http)
+2021-05-31 13:10:08,981 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2021-05-31 13:10:08,981 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.45]
+2021-05-31 13:10:09,116 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-05-31 13:10:09,117 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1112 ms
+2021-05-31 13:10:09,293 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-05-31 13:10:09,302 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-2 - Starting...
+2021-05-31 13:10:10,454 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-2 - Start completed.
+2021-05-31 13:10:10,455 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2021-05-31 13:10:11,775 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-05-31 13:10:11,776 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-05-31 13:10:11,795 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2021-05-31 13:10:12,197 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(10)-127.0.0.1] Application shutdown requested.
+2021-05-31 13:10:12,281 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-05-31 13:10:12,599 INFO springfox.documentation.spring.web.WebMvcPropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+2021-05-31 13:10:12,690 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-31 13:10:12,878 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 9090 (http) with context path ''
+2021-05-31 13:10:12,879 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Documentation plugins bootstrapped
+2021-05-31 13:10:12,881 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2021-05-31 13:10:12,970 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2021-05-31 13:10:13,425 INFO springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [restartedMain] Generating unique operation named: findByIdUsingGET_1
+2021-05-31 13:10:13,469 INFO springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [restartedMain] Generating unique operation named: addUsingPOST_1
+2021-05-31 13:10:13,481 INFO springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [restartedMain] Generating unique operation named: findAllUsingGET_1
+2021-05-31 13:10:13,735 INFO com.cg.creditcardpayment.CreditcardBillPaymentApplication [restartedMain] Started CreditcardBillPaymentApplication in 5.803 seconds (JVM running for 489.818)
+2021-05-31 13:10:13,743 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2021-05-31 13:10:13,783 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [RMI TCP Connection(10)-127.0.0.1] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-31 13:10:13,793 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [RMI TCP Connection(10)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-05-31 13:10:13,795 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(10)-127.0.0.1] HikariPool-2 - Shutdown initiated...
+2021-05-31 13:10:13,802 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(10)-127.0.0.1] HikariPool-2 - Shutdown completed.
+2021-05-31 13:10:26,355 INFO com.cg.creditcardpayment.CreditcardBillPaymentApplication [restartedMain] Starting CreditcardBillPaymentApplication using Java 15.0.2 on DESKTOP-88QC7I7 with PID 12004 (H:\CreditcardBillPayment\bin\main started by UJJAWAL in H:\CreditcardBillPayment)
+2021-05-31 13:10:26,358 INFO com.cg.creditcardpayment.CreditcardBillPaymentApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-05-31 13:10:26,449 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-05-31 13:10:26,449 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-05-31 13:10:27,849 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-05-31 13:10:27,994 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 133 ms. Found 7 JPA repository interfaces.
+2021-05-31 13:10:30,490 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 9090 (http)
+2021-05-31 13:10:30,518 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2021-05-31 13:10:30,519 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.45]
+2021-05-31 13:10:31,176 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-05-31 13:10:31,176 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 4726 ms
+2021-05-31 13:10:31,526 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-05-31 13:10:31,605 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate ORM core version 5.4.30.Final
+2021-05-31 13:10:41,962 INFO org.hibernate.annotations.common.Version [restartedMain] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-05-31 13:10:44,624 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2021-05-31 13:10:44,851 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2021-05-31 13:10:46,363 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2021-05-31 13:11:05,445 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-05-31 13:11:07,522 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-05-31 13:11:07,705 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2021-05-31 13:11:13,910 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-05-31 13:11:15,131 INFO springfox.documentation.spring.web.WebMvcPropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+2021-05-31 13:11:15,486 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-31 13:11:16,427 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 9090 (http) with context path ''
+2021-05-31 13:11:16,430 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Documentation plugins bootstrapped
+2021-05-31 13:11:16,438 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2021-05-31 13:11:16,602 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2021-05-31 13:11:17,304 INFO springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [restartedMain] Generating unique operation named: findByIdUsingGET_1
+2021-05-31 13:11:17,337 INFO springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [restartedMain] Generating unique operation named: addUsingPOST_1
+2021-05-31 13:11:17,344 INFO springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [restartedMain] Generating unique operation named: findAllUsingGET_1
+2021-05-31 13:11:17,590 INFO com.cg.creditcardpayment.CreditcardBillPaymentApplication [restartedMain] Started CreditcardBillPaymentApplication in 52.192 seconds (JVM running for 53.827)
+2021-05-31 13:41:50,936 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-9090-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-05-31 13:41:50,979 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-1] Initializing Servlet 'dispatcherServlet'
+2021-05-31 13:41:50,986 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-1] Completed initialization in 7 ms
+2021-05-31 13:44:28,475 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(35)-127.0.0.1] Application shutdown requested.
+2021-05-31 13:44:29,677 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [RMI TCP Connection(35)-127.0.0.1] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-31 13:44:29,684 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [RMI TCP Connection(35)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-05-31 13:44:29,687 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(35)-127.0.0.1] HikariPool-1 - Shutdown initiated...
+2021-05-31 13:44:29,709 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(35)-127.0.0.1] HikariPool-1 - Shutdown completed.
+2021-05-31 13:44:35,182 INFO com.cg.creditcardpayment.CreditcardBillPaymentApplication [restartedMain] Starting CreditcardBillPaymentApplication using Java 15.0.2 on DESKTOP-88QC7I7 with PID 19504 (H:\CreditcardBillPayment\bin\main started by UJJAWAL in H:\CreditcardBillPayment)
+2021-05-31 13:44:35,184 INFO com.cg.creditcardpayment.CreditcardBillPaymentApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-05-31 13:44:35,230 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-05-31 13:44:35,230 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-05-31 13:44:36,496 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-05-31 13:44:36,583 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 81 ms. Found 7 JPA repository interfaces.
+2021-05-31 13:44:37,159 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 9090 (http)
+2021-05-31 13:44:37,207 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2021-05-31 13:44:37,207 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.45]
+2021-05-31 13:44:37,391 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-05-31 13:44:37,391 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 2159 ms
+2021-05-31 13:44:37,662 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-05-31 13:44:37,804 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate ORM core version 5.4.30.Final
+2021-05-31 13:44:38,109 INFO org.hibernate.annotations.common.Version [restartedMain] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-05-31 13:44:38,259 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2021-05-31 13:44:38,341 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2021-05-31 13:44:38,401 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2021-05-31 13:44:39,726 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-05-31 13:44:39,733 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-05-31 13:44:39,771 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2021-05-31 13:44:40,380 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-05-31 13:44:40,699 INFO springfox.documentation.spring.web.WebMvcPropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+2021-05-31 13:44:40,818 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-31 13:44:41,122 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 9090 (http) with context path ''
+2021-05-31 13:44:41,123 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Documentation plugins bootstrapped
+2021-05-31 13:44:41,126 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2021-05-31 13:44:41,166 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2021-05-31 13:44:41,360 INFO springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [restartedMain] Generating unique operation named: findByIdUsingGET_1
+2021-05-31 13:44:41,372 INFO springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [restartedMain] Generating unique operation named: addUsingPOST_1
+2021-05-31 13:44:41,376 INFO springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [restartedMain] Generating unique operation named: findAllUsingGET_1
+2021-05-31 13:44:41,450 INFO com.cg.creditcardpayment.CreditcardBillPaymentApplication [restartedMain] Started CreditcardBillPaymentApplication in 6.764 seconds (JVM running for 7.863)
+2021-05-31 14:54:18,603 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-9090-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-05-31 14:54:18,606 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-1] Initializing Servlet 'dispatcherServlet'
+2021-05-31 14:54:18,630 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-1] Completed initialization in 24 ms
+2021-05-31 14:56:14,312 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(76)-127.0.0.1] Application shutdown requested.
+2021-05-31 14:56:14,394 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [RMI TCP Connection(76)-127.0.0.1] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-31 14:56:14,406 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [RMI TCP Connection(76)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-05-31 14:56:14,417 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(76)-127.0.0.1] HikariPool-1 - Shutdown initiated...
+2021-05-31 14:56:14,450 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(76)-127.0.0.1] HikariPool-1 - Shutdown completed.
+2021-05-31 14:56:21,179 INFO com.cg.creditcardpayment.CreditcardBillPaymentApplication [restartedMain] Starting CreditcardBillPaymentApplication using Java 15.0.2 on DESKTOP-88QC7I7 with PID 4568 (H:\CreditcardBillPayment\bin\main started by UJJAWAL in H:\CreditcardBillPayment)
+2021-05-31 14:56:21,181 INFO com.cg.creditcardpayment.CreditcardBillPaymentApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-05-31 14:56:21,222 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-05-31 14:56:21,222 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-05-31 14:56:21,800 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-05-31 14:56:21,856 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 50 ms. Found 7 JPA repository interfaces.
+2021-05-31 14:56:22,518 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 9090 (http)
+2021-05-31 14:56:22,525 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2021-05-31 14:56:22,525 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.45]
+2021-05-31 14:56:22,593 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-05-31 14:56:22,593 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1370 ms
+2021-05-31 14:56:22,754 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-05-31 14:56:22,793 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate ORM core version 5.4.30.Final
+2021-05-31 14:56:22,890 INFO org.hibernate.annotations.common.Version [restartedMain] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-05-31 14:56:22,961 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2021-05-31 14:56:23,043 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2021-05-31 14:56:23,066 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2021-05-31 14:56:24,025 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-05-31 14:56:24,031 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-05-31 14:56:24,071 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2021-05-31 14:56:24,611 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-05-31 14:56:24,901 INFO springfox.documentation.spring.web.WebMvcPropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+2021-05-31 14:56:25,015 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-31 14:56:25,315 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 9090 (http) with context path ''
+2021-05-31 14:56:25,315 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Documentation plugins bootstrapped
+2021-05-31 14:56:25,318 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2021-05-31 14:56:25,375 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2021-05-31 14:56:25,552 INFO springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [restartedMain] Generating unique operation named: findByIdUsingGET_1
+2021-05-31 14:56:25,564 INFO springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [restartedMain] Generating unique operation named: addUsingPOST_1
+2021-05-31 14:56:25,568 INFO springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [restartedMain] Generating unique operation named: findAllUsingGET_1
+2021-05-31 14:56:25,658 INFO com.cg.creditcardpayment.CreditcardBillPaymentApplication [restartedMain] Started CreditcardBillPaymentApplication in 4.809 seconds (JVM running for 5.494)
+2021-05-31 14:56:36,859 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-5] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-31 14:56:36,867 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [Thread-5] Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-05-31 14:56:36,870 INFO com.zaxxer.hikari.HikariDataSource [Thread-5] HikariPool-1 - Shutdown initiated...
+2021-05-31 14:56:36,874 INFO com.zaxxer.hikari.HikariDataSource [Thread-5] HikariPool-1 - Shutdown completed.
+2021-05-31 14:56:36,953 INFO com.cg.creditcardpayment.CreditcardBillPaymentApplication [restartedMain] Starting CreditcardBillPaymentApplication using Java 15.0.2 on DESKTOP-88QC7I7 with PID 4568 (H:\CreditcardBillPayment\bin\main started by UJJAWAL in H:\CreditcardBillPayment)
+2021-05-31 14:56:36,953 INFO com.cg.creditcardpayment.CreditcardBillPaymentApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-05-31 14:56:37,172 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-05-31 14:56:37,189 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 17 ms. Found 7 JPA repository interfaces.
+2021-05-31 14:56:37,275 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 9090 (http)
+2021-05-31 14:56:37,276 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2021-05-31 14:56:37,276 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.45]
+2021-05-31 14:56:37,294 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-05-31 14:56:37,294 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 339 ms
+2021-05-31 14:56:37,328 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-05-31 14:56:37,331 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-2 - Starting...
+2021-05-31 14:56:37,361 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-2 - Start completed.
+2021-05-31 14:56:37,362 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2021-05-31 14:56:37,820 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-05-31 14:56:37,820 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-05-31 14:56:37,828 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2021-05-31 14:56:38,008 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-05-31 14:56:38,067 INFO springfox.documentation.spring.web.WebMvcPropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+2021-05-31 14:56:38,089 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-31 14:56:38,161 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 9090 (http) with context path ''
+2021-05-31 14:56:38,162 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Documentation plugins bootstrapped
+2021-05-31 14:56:38,162 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2021-05-31 14:56:38,185 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2021-05-31 14:56:38,284 INFO springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [restartedMain] Generating unique operation named: findByIdUsingGET_1
+2021-05-31 14:56:38,293 INFO springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [restartedMain] Generating unique operation named: addUsingPOST_1
+2021-05-31 14:56:38,295 INFO springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [restartedMain] Generating unique operation named: findAllUsingGET_1
+2021-05-31 14:56:38,353 INFO com.cg.creditcardpayment.CreditcardBillPaymentApplication [restartedMain] Started CreditcardBillPaymentApplication in 1.429 seconds (JVM running for 18.189)
+2021-05-31 14:56:38,354 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2021-05-31 14:56:39,312 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(2)-127.0.0.1] Application shutdown requested.
+2021-05-31 14:56:39,352 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [RMI TCP Connection(2)-127.0.0.1] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-31 14:56:39,356 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [RMI TCP Connection(2)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-05-31 14:56:39,357 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(2)-127.0.0.1] HikariPool-2 - Shutdown initiated...
+2021-05-31 14:56:39,359 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(2)-127.0.0.1] HikariPool-2 - Shutdown completed.
+2021-05-31 14:56:43,207 INFO com.cg.creditcardpayment.CreditcardBillPaymentApplication [restartedMain] Starting CreditcardBillPaymentApplication using Java 15.0.2 on DESKTOP-88QC7I7 with PID 6960 (H:\CreditcardBillPayment\bin\main started by UJJAWAL in H:\CreditcardBillPayment)
+2021-05-31 14:56:43,208 INFO com.cg.creditcardpayment.CreditcardBillPaymentApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-05-31 14:56:43,249 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-05-31 14:56:43,249 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-05-31 14:56:43,814 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-05-31 14:56:43,867 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 48 ms. Found 7 JPA repository interfaces.
+2021-05-31 14:56:44,332 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 9090 (http)
+2021-05-31 14:56:44,339 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2021-05-31 14:56:44,339 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.45]
+2021-05-31 14:56:44,406 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-05-31 14:56:44,406 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1156 ms
+2021-05-31 14:56:44,559 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-05-31 14:56:44,592 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate ORM core version 5.4.30.Final
+2021-05-31 14:56:44,674 INFO org.hibernate.annotations.common.Version [restartedMain] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-05-31 14:56:44,738 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2021-05-31 14:56:44,816 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2021-05-31 14:56:44,839 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2021-05-31 14:56:45,719 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-05-31 14:56:45,725 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-05-31 14:56:45,761 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2021-05-31 14:56:46,278 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-05-31 14:56:46,559 INFO springfox.documentation.spring.web.WebMvcPropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+2021-05-31 14:56:46,678 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-31 14:56:46,993 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 9090 (http) with context path ''
+2021-05-31 14:56:46,994 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Documentation plugins bootstrapped
+2021-05-31 14:56:46,996 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2021-05-31 14:56:47,038 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2021-05-31 14:56:47,224 INFO springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [restartedMain] Generating unique operation named: findByIdUsingGET_1
+2021-05-31 14:56:47,237 INFO springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [restartedMain] Generating unique operation named: addUsingPOST_1
+2021-05-31 14:56:47,240 INFO springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [restartedMain] Generating unique operation named: findAllUsingGET_1
+2021-05-31 14:56:47,316 INFO com.cg.creditcardpayment.CreditcardBillPaymentApplication [restartedMain] Started CreditcardBillPaymentApplication in 4.369 seconds (JVM running for 5.03)
+2021-05-31 14:56:53,017 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-9090-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-05-31 14:56:53,018 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-1] Initializing Servlet 'dispatcherServlet'
+2021-05-31 14:56:53,019 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-9090-exec-1] Completed initialization in 1 ms
+2021-05-31 15:03:15,949 INFO com.cg.creditcardpayment.controller.AccountController [http-nio-9090-exec-6] Called GET mapping getAllAccounts() method
+2021-05-31 15:03:15,949 INFO com.cg.creditcardpayment.services.AccountServices [http-nio-9090-exec-6] Called getAllAccount() method of AccountServices
+2021-05-31 15:04:04,031 INFO com.cg.creditcardpayment.controller.AccountController [http-nio-9090-exec-8] Called GET mapping getAllAccounts() method
+2021-05-31 15:04:04,031 INFO com.cg.creditcardpayment.services.AccountServices [http-nio-9090-exec-8] Called getAllAccount() method of AccountServices
+2021-05-31 15:05:55,337 INFO com.cg.creditcardpayment.controller.AccountController [http-nio-9090-exec-10] Called GET mapping getAllAccounts() method
+2021-05-31 15:05:55,337 INFO com.cg.creditcardpayment.services.AccountServices [http-nio-9090-exec-10] Called getAllAccount() method of AccountServices
+2021-05-31 15:15:31,306 INFO com.cg.creditcardpayment.controller.AccountController [http-nio-9090-exec-2] Called GET mapping getAllAccounts() method
+2021-05-31 15:15:31,307 INFO com.cg.creditcardpayment.services.AccountServices [http-nio-9090-exec-2] Called getAllAccount() method of AccountServices
+2021-05-31 15:16:21,632 INFO com.cg.creditcardpayment.controller.AccountController [http-nio-9090-exec-4] Called GET mapping getAllAccounts() method
+2021-05-31 15:16:21,633 INFO com.cg.creditcardpayment.services.AccountServices [http-nio-9090-exec-4] Called getAllAccount() method of AccountServices
+2021-05-31 15:20:18,078 INFO com.cg.creditcardpayment.controller.AccountController [http-nio-9090-exec-6] Called GET mapping getAllAccounts() method
+2021-05-31 15:20:18,079 INFO com.cg.creditcardpayment.services.AccountServices [http-nio-9090-exec-6] Called getAllAccount() method of AccountServices
+2021-05-31 15:20:40,634 INFO com.cg.creditcardpayment.controller.AccountController [http-nio-9090-exec-8] Called GET mapping getAllAccounts() method
+2021-05-31 15:20:40,634 INFO com.cg.creditcardpayment.services.AccountServices [http-nio-9090-exec-8] Called getAllAccount() method of AccountServices
+2021-05-31 15:34:03,281 INFO com.cg.creditcardpayment.controller.AccountController [http-nio-9090-exec-10] Called GET mapping getAllAccounts() method
+2021-05-31 15:34:03,282 INFO com.cg.creditcardpayment.services.AccountServices [http-nio-9090-exec-10] Called getAllAccount() method of AccountServices
+2021-05-31 15:42:16,597 INFO com.cg.creditcardpayment.controller.AccountController [http-nio-9090-exec-2] Called GET mapping getAllAccounts() method
+2021-05-31 15:42:16,597 INFO com.cg.creditcardpayment.services.AccountServices [http-nio-9090-exec-2] Called getAllAccount() method of AccountServices
+2021-05-31 15:53:30,593 INFO com.cg.creditcardpayment.controller.AccountController [http-nio-9090-exec-4] Called GET mapping getAllAccounts() method
+2021-05-31 15:53:30,594 INFO com.cg.creditcardpayment.services.AccountServices [http-nio-9090-exec-4] Called getAllAccount() method of AccountServices
+2021-05-31 16:01:57,862 INFO com.cg.creditcardpayment.controller.AccountController [http-nio-9090-exec-6] Called GET mapping getAllAccounts() method
+2021-05-31 16:01:57,863 INFO com.cg.creditcardpayment.services.AccountServices [http-nio-9090-exec-6] Called getAllAccount() method of AccountServices
+2021-05-31 16:04:42,943 INFO com.cg.creditcardpayment.controller.AccountController [http-nio-9090-exec-8] Called GET mapping getAllAccounts() method
+2021-05-31 16:04:42,944 INFO com.cg.creditcardpayment.services.AccountServices [http-nio-9090-exec-8] Called getAllAccount() method of AccountServices
+2021-05-31 16:05:10,516 INFO com.cg.creditcardpayment.services.AccountServices [http-nio-9090-exec-10] Called addAccount() method of AccountServices
+2021-05-31 16:05:11,206 INFO com.cg.creditcardpayment.controller.AccountController [http-nio-9090-exec-1] Called GET mapping getAllAccounts() method
+2021-05-31 16:05:11,206 INFO com.cg.creditcardpayment.services.AccountServices [http-nio-9090-exec-1] Called getAllAccount() method of AccountServices
+2021-05-31 16:10:31,196 INFO com.cg.creditcardpayment.controller.AccountController [http-nio-9090-exec-3] Called GET mapping getAllAccounts() method
+2021-05-31 16:10:31,197 INFO com.cg.creditcardpayment.services.AccountServices [http-nio-9090-exec-3] Called getAllAccount() method of AccountServices
+2021-05-31 16:11:01,279 INFO com.cg.creditcardpayment.services.AccountServices [http-nio-9090-exec-5] Called addAccount() method of AccountServices
+2021-05-31 16:11:01,459 INFO com.cg.creditcardpayment.controller.AccountController [http-nio-9090-exec-6] Called GET mapping getAllAccounts() method
+2021-05-31 16:11:01,459 INFO com.cg.creditcardpayment.services.AccountServices [http-nio-9090-exec-6] Called getAllAccount() method of AccountServices
+2021-05-31 16:20:33,814 INFO com.cg.creditcardpayment.controller.AccountController [http-nio-9090-exec-8] Called GET mapping getAllAccounts() method
+2021-05-31 16:20:33,815 INFO com.cg.creditcardpayment.services.AccountServices [http-nio-9090-exec-8] Called getAllAccount() method of AccountServices
+2021-05-31 16:21:52,022 INFO com.cg.creditcardpayment.controller.AccountController [http-nio-9090-exec-10] Called GET mapping getAllAccounts() method
+2021-05-31 16:21:52,023 INFO com.cg.creditcardpayment.services.AccountServices [http-nio-9090-exec-10] Called getAllAccount() method of AccountServices
+2021-05-31 16:21:58,628 INFO com.cg.creditcardpayment.controller.AccountController [http-nio-9090-exec-1] Called GET mapping getAllAccounts() method
+2021-05-31 16:21:58,629 INFO com.cg.creditcardpayment.services.AccountServices [http-nio-9090-exec-1] Called getAllAccount() method of AccountServices
+2021-05-31 16:22:23,858 INFO com.cg.creditcardpayment.services.AccountServices [http-nio-9090-exec-2] Called addAccount() method of AccountServices
+2021-05-31 16:22:23,930 INFO com.cg.creditcardpayment.controller.AccountController [http-nio-9090-exec-3] Called GET mapping getAllAccounts() method
+2021-05-31 16:22:23,931 INFO com.cg.creditcardpayment.services.AccountServices [http-nio-9090-exec-3] Called getAllAccount() method of AccountServices
+2021-05-31 16:26:12,951 INFO com.cg.creditcardpayment.controller.AccountController [http-nio-9090-exec-5] Called GET mapping getAllAccounts() method
+2021-05-31 16:26:12,952 INFO com.cg.creditcardpayment.services.AccountServices [http-nio-9090-exec-5] Called getAllAccount() method of AccountServices
+2021-05-31 17:20:03,335 INFO com.cg.creditcardpayment.services.AccountServices [http-nio-9090-exec-7] Called addAccount() method of AccountServices
+2021-05-31 17:20:03,626 INFO com.cg.creditcardpayment.controller.AccountController [http-nio-9090-exec-8] Called GET mapping getAllAccounts() method
+2021-05-31 17:20:03,627 INFO com.cg.creditcardpayment.services.AccountServices [http-nio-9090-exec-8] Called getAllAccount() method of AccountServices
+2021-05-31 17:20:13,492 INFO com.cg.creditcardpayment.controller.AccountController [http-nio-9090-exec-9] Called GET mapping getAllAccounts() method
+2021-05-31 17:20:13,492 INFO com.cg.creditcardpayment.services.AccountServices [http-nio-9090-exec-9] Called getAllAccount() method of AccountServices
+2021-05-31 21:19:50,447 WARN com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h46m50s932ms57탎500ns).
+2021-05-31 21:20:25,726 WARN com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=46s515ms894탎100ns).
